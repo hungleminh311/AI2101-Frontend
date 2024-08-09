@@ -1,0 +1,128 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "StatsWithDescription"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletterBelow"
+    },
+    {
+      "id": "FooterFourColumnWithNewsletter"
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "NewsletterSimpleStacked"
+    },
+    {
+      "id": "NewsletterSimpleSideBySide"
+    },
+    {
+      "id": "NewsletterSideBySideOnCard"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "FaqsCenteredAccordion"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "CtaTwoColumnsWithPhoto"
+    },
+    {
+      "id": "CtaSimpleJustified"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "CtaWithAppScreenshot"
+    },
+    {
+      "id": "TestimonialsOffWhiteGrid"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "HeroWithPhoneMockup"
+    },
+    {
+      "id": "HeroWithAngledImageOnRight"
+    },
+    {
+      "id": "HeroSplitWithScreenshot"
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "font": "",
+  "theme": "minimal",
+  "title": "Drive Your Journey Forward",
+  "subtitle": "Effortless car rentals engineered for every adventure. Let’s get you on the road!"
+}
